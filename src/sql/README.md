@@ -1,0 +1,5 @@
+
+## Notes
+
+- `:!` = "execute"
+- `:?` = "query"
